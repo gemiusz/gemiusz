@@ -4,7 +4,7 @@
 
 ### 💻 I'M ONLY TESTER
 
-*  Expert QA Engineer in Core Banking Area, Tribe of Operational Applications at [ING Poland](http://ing.pl/).
+*  Principal QA Engineer in Core Banking Area, Tribe of Operational Applications at [ING Poland](http://ing.pl/).
 *  Quality focused person with advanced knowledge in testing: API, Performance, E2E, iSeries platform.
 *  Specializing in Java-like tools for testing.
 * Thinking outside of the box when testing - one developer says about me: Even if this software was created by a programming competition winner, you will still find a bug there.
