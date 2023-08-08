@@ -1,4 +1,4 @@
-module github.com/gemiusz/gatling-examples-maven-java
+module github.com/gemiusz/gemiusz
 
 go 1.20
 
